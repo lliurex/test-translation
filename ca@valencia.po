@@ -42,6 +42,7 @@ msgstr ""
 
 #: ../air-installer/src/air_installer.py:206
 #, python-format
+#. TRANSLATORS: Mensaje para el traductor dando algun tipo de ayuda 
 msgid "Package <b>%s</b> succesfully installed"
 msgstr ""
 
