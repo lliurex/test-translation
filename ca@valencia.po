@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-15 08:22+0200\n"
-"PO-Revision-Date: 2020-11-11 11:05+0000\n"
+"PO-Revision-Date: 2020-11-11 12:43+0000\n"
 "Last-Translator: Raul Rodrigo <raurodse@gmail.com>\n"
 "Language-Team: Valencian <http://weblate.lliurex.net/projects/test2/test/ca@"
 "valencia/>\n"
@@ -25,7 +25,7 @@ msgstr "Instalacion aplicacion air"
 #: ../air-installer/src/air_installer.py:79
 #, python-format
 msgid "Install <b>%s</b>"
-msgstr ""
+msgstr "Instala <b>%s</b>"
 
 #: ../air-installer/src/air_installer.py:102
 #, python-format
