@@ -46,9 +46,6 @@ msgstr ""
 msgid "Package <b>%s</b> succesfully installed"
 msgstr ""
 
-# ~ msgid "Establezca la longitud y latitud del telescopio". 
-# ~ msgstr "Postavi geo. dužinu i širinu teleskopa."
-
 
 #: tools/observinglist.cpp:700
 msgctxt "First letter in 'Scope'"
@@ -66,5 +63,8 @@ msgid "One file removed"
 msgid_plural "%d files removed"
 msgstr[0] ""
 msgstr[1] ""
+
+# ~ msgid "Establezca la longitud y latitud del telescopio". 
+# ~ msgstr "Postavi geo. dužinu i širinu teleskopa."
 
 
