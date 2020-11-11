@@ -53,7 +53,6 @@ msgid_plural "%d files removed"
 msgstr[0] ""
 msgstr[1] ""
 
-
 #: tools/observinglist.cpp:700
 msgctxt "First letter in 'Scope'"
 msgid "S"
