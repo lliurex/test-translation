@@ -44,3 +44,10 @@ msgstr ""
 #, python-format
 msgid "Package <b>%s</b> succesfully installed"
 msgstr ""
+
+
+#, c-format
+msgid "One file removed"
+msgid_plural "%d files removed"
+msgstr[0] ""
+msgstr[1] ""
