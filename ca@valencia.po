@@ -52,3 +52,15 @@ msgid "One file removed"
 msgid_plural "%d files removed"
 msgstr[0] ""
 msgstr[1] ""
+
+
+#: tools/observinglist.cpp:700
+msgctxt "First letter in 'Scope'"
+msgid "S"
+msgstr ""
+⁠
+#: skycomponents/horizoncomponent.cpp:429
+msgctxt "South"
+msgid "S"
+msgstr ""
+
