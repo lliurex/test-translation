@@ -54,7 +54,7 @@ msgstr ""
 msgctxt "First letter in 'Scope'"
 msgid "S"
 msgstr ""
-⁠
+
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "South"
 msgid "S"
