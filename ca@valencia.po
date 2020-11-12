@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-15 08:22+0200\n"
-"PO-Revision-Date: 2020-11-11 12:48+0000\n"
-"Last-Translator: Raul Rodrigo <raurodse@gmail.com>\n"
+"PO-Revision-Date: 2020-11-13 10:40+0000\n"
+"Last-Translator: Angels <gimenez_angcam@gva.es>\n"
 "Language-Team: Valencian <http://weblate.lliurex.net/projects/test2/test/ca@"
 "valencia/>\n"
 "Language: ca@valencia\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../air-installer/src/air_installer.py:36
 msgid "Install air app"
-msgstr "Instalacion aplicacion air"
+msgstr "Instal·la l'aplicació Air"
 
 #: ../air-installer/src/air_installer.py:79
 #, python-format
@@ -40,12 +40,11 @@ msgstr ""
 msgid "images"
 msgstr ""
 
+#. TRANSLATORS: Mensaje para el traductor dando algun tipo de ayuda 
 #: ../air-installer/src/air_installer.py:206
 #, python-format
-#. TRANSLATORS: Mensaje para el traductor dando algun tipo de ayuda 
 msgid "Package <b>%s</b> succesfully installed"
 msgstr ""
-
 
 #: tools/observinglist.cpp:700
 msgctxt "First letter in 'Scope'"
@@ -57,7 +56,6 @@ msgctxt "South"
 msgid "S"
 msgstr ""
 
-
 #, c-format
 msgid "One file removed"
 msgid_plural "%d files removed"
@@ -66,5 +64,3 @@ msgstr[1] ""
 
 # ~ msgid "Establezca la longitud y latitud del telescopio". 
 # ~ msgstr "Postavi geo. dužinu i širinu teleskopa."
-
-
